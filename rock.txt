@@ -4,3 +4,6 @@ laugh
 run
 drink
 swim
+tree
+plant
+animal
