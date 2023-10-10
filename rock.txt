@@ -1,1 +1,4 @@
 jump
+sit
+laugh
+run
