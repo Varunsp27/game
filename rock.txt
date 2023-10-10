@@ -2,3 +2,5 @@ jump
 sit
 laugh
 run
+drink
+swim
